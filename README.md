@@ -16,3 +16,4 @@ A native Android application built with Java that provides a complete food order
 * **Backend & Database:** Firebase (Authentication, Realtime Database / Firestore)
 * **IDE:** Android Studio
 
+Watch the Full Demo Video here: [https://drive.google.com/file/d/1lC7pgv9tEedcrMnQqcheUF7tFQf22dU4/view?usp=sharing]
